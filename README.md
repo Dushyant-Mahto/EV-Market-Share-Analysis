@@ -67,5 +67,4 @@ This project simulates a client request:
 
 ## 👤 Author
 - **Dushyant Mahto**  
-- B.Tech, Electrical and Electronics Engineering  
 - [GitHub](https://github.com/Dushyant-Mahto) | [LinkedIn](www.linkedin.com/in/dushyant-mahto)
