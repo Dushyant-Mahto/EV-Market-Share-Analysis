@@ -1,4 +1,4 @@
-# 🚗 EV Market Analysis in India (2015–2024)
+# EV Market Analysis in India (2015–2024)
 
 ## 📌 Project Overview
 The Indian EV market is rapidly expanding, but challenges remain in **charging infrastructure** and **regional adoption rates**.  
@@ -19,7 +19,7 @@ This project simulates a client request:
 - **EV Sales by State (2015–2024)**  
 - **EV Charging Stations by State**  
 - **EV Sales by Maker & Category**  
-- Sources: Open datasets (Govt. of India portals + secondary aggregators).  
+- Sources: Open datasets (kaggle datasets).  
 
 ---
 
@@ -54,7 +54,6 @@ This project simulates a client request:
 ## 🛠️ Tech Stack
 - **Python**: pandas, matplotlib, seaborn  
 - **Jupyter Notebook** for analysis  
-- **PowerBI / Tableau (optional)** for visualization  
 
 ---
 
@@ -62,20 +61,11 @@ This project simulates a client request:
 - EV Sales Growth Trend (2015–2024)  
 - Top States EV Adoption  
 - EVs per Charging Station  
-- Maker-wise Market Share  
-
-*(plots saved in `/images/` folder)*  
-
----
-
-## 📌 Future Work
-- Add EV pricing & cost competitiveness.  
-- Predictive modeling for EV demand (2025–2030).  
-- Geo-spatial analysis (GIS mapping) for charger placement.  
+- Maker-wise Market Share   
 
 ---
 
 ## 👤 Author
 - **Dushyant Mahto**  
 - B.Tech, Electrical and Electronics Engineering  
-- [GitHub](https://github.com/Dushyant-Mahto) | [LinkedIn](#)
+- [GitHub](https://github.com/Dushyant-Mahto) | [LinkedIn](www.linkedin.com/in/dushyant-mahto)
